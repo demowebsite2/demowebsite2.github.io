@@ -216,7 +216,7 @@ h4.uppercase
 .contacts a:hover 
 {
 	color: hotpink;
-	box-shadow: 0 0 1px #888888;
+	box-shadow: 0 0 1px;
 }
 
 
