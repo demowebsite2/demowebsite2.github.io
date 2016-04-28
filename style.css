@@ -12,7 +12,7 @@ nav.navbar-inverse
 
 .cover
 {
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url('images/banner.jpg') top left no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url('https://cloud.githubusercontent.com/assets/18715502/14878880/c424e6d2-0ceb-11e6-8d37-7ddf962eb991.jpg') top left no-repeat;
 	background-size: cover;
 	width: 100%;
 	display: table;
