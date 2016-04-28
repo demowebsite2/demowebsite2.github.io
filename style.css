@@ -205,18 +205,13 @@ h4.uppercase
 {
 	margin: 40px 0;
 	
-	
 }
 
-#contacts img:hover
-{
-	
-}
+
 
 .contacts a:hover 
 {
 	color: hotpink;
-	box-shadow: 0 0 1px;
 }
 
 
