@@ -1,7 +1,7 @@
 html,body,.cover
 {
 	height: 100%;
-	font-family: Corbel;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 nav.navbar-inverse
